@@ -1,6 +1,6 @@
 # Chat-Application
 
-CHAT APPLICATION, gives the user the option to create a username
+CHAT APPLICATION gives the user the option to create a username
 protected by a password stored in a map. After creating an account, the user can
 initiate a conversation with another user, view the inbox to get all the messages,
 add or delete a friend and start a group chat. Vectors are used for storing the friend
